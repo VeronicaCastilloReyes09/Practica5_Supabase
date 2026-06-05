@@ -1,0 +1,6 @@
+id,nombre,precio,categoria,stock,created_at
+1,Laptop OMEN,30000.0,Electronica,30,2026-06-05T20:49:46.813213+00:00
+2,Mouse Acer,600.0,Electronica,12,2026-06-05T20:49:46.813213+00:00
+3,Teclado Force One,2400.0,Electronica,22,2026-06-05T20:49:46.813213+00:00
+4,Monitor ASUS,3500.0,Electronica,15,2026-06-05T20:49:46.813213+00:00
+5,USB Sandisk,130.0,Accesorios,40,2026-06-05T20:49:46.813213+00:00
